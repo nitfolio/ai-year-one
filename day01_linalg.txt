@@ -1,0 +1,53 @@
+python day01_linalg.py - output
+============================================================
+PART 1: BASIC TESTS
+============================================================
+dot: 32
+matvec: [140, 320]
+transpose: [[1, 4], [2, 5], [3, 6]]
+matmul: [[19, 22], [43, 50]]
+Basic tests: PASS
+
+============================================================
+PART 2: NUMPY EQUIVALENTS
+============================================================
+NumPy dot: 32
+NumPy matvec: [140 320]
+NumPy transpose:
+[[1 4]
+ [2 5]
+ [3 6]]
+NumPy matmul:
+[[19 22]
+ [43 50]]
+
+============================================================
+PART 3: COMPARE WITH NUMPY
+============================================================
+All basic NumPy comparisons: PASS
+
+============================================================
+PART 4: RANDOM TESTS
+============================================================
+Random tests: PASS
+
+============================================================
+PART 5: 200 × 200 MATRIX MULTIPLICATION
+============================================================
+Running pure Python matmul...
+Running NumPy matmul...
+
+Pure Python time: 0.29502870000033 seconds
+NumPy time:       0.02404219999880297 seconds
+Speed ratio:      12.271285490305342 x
+
+============================================================
+DAY 01 COMPLETE
+============================================================
+All functions work.
+All NumPy comparisons passed.
+All random tests passed.
+The 200 × 200 results match.
+
+Pure Python is approximately 12.271285490305342 x slower
+than NumPy for this benchmark on this computer.
