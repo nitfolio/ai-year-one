@@ -351,7 +351,7 @@ Go build the thing.
 
 
 > [!me]
-> thank you very much, and congratulations for completing this mammoth task. the remaining question i have is: is these materials sufficient with you vast experience of all the books, study materails, courses, what else do you think elevate this material, a companion, an edge case handler, out of the box thinking material. a 360 degree knowledge coverer. what am i missing, what you are missing to make this one of a kind never before study material that makes some one zero to hero in a field with fastest yet effective track
+> thank you very much, and congratulations for completing this mammoth task. the remaining question i have is: is these materials sufficient with your vast experience of all the books, study materails, courses, what else do you think elevate this material, a companion, an edge case handler, out of the box thinking material. a 360 degree knowledge coverer. what am i missing, what you are missing to make this one of a kind never before study material that makes some one zero to hero in a field with fastest yet effective track
 
 Good question, and it deserves a straight answer rather than reassurance. Here's my honest assessment of what's missing.
 
@@ -463,7 +463,7 @@ Go do the work. I hope it goes well.
 
 
 > [!me]
-> thanks. one more thing, you have done all this whicjh isn't possible with just human effort what i want to know is: even after all this do you think we togeather missed anything? something slipped under your careful book design and architecture that makes this effort from A+ to S tier. The final, ultimate knowledge what we call here Brahma jnana
+> thanks. one more thing, you have done all this which isn't possible with just human effort what i want to know is: even after all this do you think we together missed anything? something slipped under your careful book design and architecture that makes this effort from A+ to S tier. The final, ultimate knowledge what we call here Brahma jnana
 
 There's no secret teaching. But there is one structural limit and three real gaps, and I'd rather name them precisely than pretend the thing is finished.
 
