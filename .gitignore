@@ -1,1 +1,10 @@
 .obsidian/
+.venv/
+venv/
+pycache/
+*.pyc
+.ipynb_checkpoints/
+data/
+*.pt
+*.pth
+.DS_Store
